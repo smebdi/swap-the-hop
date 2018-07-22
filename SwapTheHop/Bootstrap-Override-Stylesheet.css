@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%
+}
+
+.sth-overall-container{
+    min-height: 100%;
+}
+
+.sth-main {
+    overflow: auto;
+    padding-bottom: 100px;
+}
+
+.Beer-Table-Pic {
+    width:50px;
+    height:75px;
+}
+
+.text-no-decoration {
+    text-decoration: none;
+}
+
+.main-container {
+    padding-top: 50px;
+}
+
+.menu-profile-container {
+    background-color: #aaa;
+}
+
+.menu-profile-container img {
+    margin: auto;
+}
+
+.header-intro {
+    width: 100%;
+    background-color: #f3f3f3;
+}
+
+.jumbotron {
+   background-image: url("Pictures/jumbotron-img.jpg");
+    background-color: #17234E;
+    padding: 100px;
+    margin-bottom: 0;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.sth-header{
+    background-color: rgb(148, 148, 148);
+    padding: 0px 40px;
+    margin: 0px;
+}
+
+.sth-user-page{
+    background-color: rgb(236, 236, 236);
+    padding: 10px 10px;
+}
+
+.sth-user-page-pic{
+    display: block;
+    margin: 0 auto;
+    max-height: 200px;
+    height: auto;
+    padding: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+.sth-sign-up-form{
+    max-height: 500px;
+    height: auto;
+}
+
+.input-error {
+    box-shadow: 0 0 5px red;
+  }
+
+.sth-footer {
+    height: 100px;
+    padding: 100px;
+}
+.sth-footer-text {
+    color: white;
+}
+
+
